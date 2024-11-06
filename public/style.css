@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    height: auto;
+    width: auto;
+    background-image: url('https://th.bing.com/th/id/R.26eb957c6bfeec2b623ef3d0d0f3e717?rik=vZ6QwbdHoflZIg&pid=ImgRaw&r=0');
+  }
+  
+  div{
+    width: 300px; 
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f1f1f1;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+  }
+
+  h1 {
+    font-size: 26px;
+    font-weight: bold;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 220px;
+    margin: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    color: black;
+    background-color: aqua;
+    font-size: 16px;
+    border-radius: 10px;
+
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 8px;
+    margin-bottom: 10px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+  }
+  
